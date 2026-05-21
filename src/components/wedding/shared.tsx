@@ -2,7 +2,7 @@ import { useEffect, useRef, useState } from "react";
 
 export const WEDDING_DATE = new Date("2026-08-18T12:00:00");
 
-export const HERO_BG = "https://cdn.poehali.dev/projects/8af6ef6a-3434-4ec3-a6ff-6c43f3cdf5f0/bucket/b4fd7645-f859-4e9f-ae6a-4e664cfd0882.jpeg";
+export const HERO_BG = "https://cdn.poehali.dev/projects/8af6ef6a-3434-4ec3-a6ff-6c43f3cdf5f0/bucket/944ac00d-e26e-407a-b678-2eff60fa983c.jpeg";
 export const COUPLE_IMG = "https://cdn.poehali.dev/projects/8af6ef6a-3434-4ec3-a6ff-6c43f3cdf5f0/files/0cbd6ee2-8ea3-4cd2-980c-9c616ee017e5.jpg";
 export const BOTANICAL_BG = "https://cdn.poehali.dev/projects/8af6ef6a-3434-4ec3-a6ff-6c43f3cdf5f0/files/f7ae6fcd-c5fb-4373-94e6-3fdfce25434d.jpg";
 

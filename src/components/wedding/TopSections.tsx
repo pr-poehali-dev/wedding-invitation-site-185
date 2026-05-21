@@ -54,7 +54,7 @@ export function HeroSection() {
     <section id="top" className="relative min-h-screen flex items-center justify-center overflow-hidden">
       <div
         className="absolute inset-0"
-        style={{ backgroundImage: `url(${HERO_BG})`, backgroundSize: "cover", backgroundPosition: "center top" }}
+        style={{ backgroundImage: `url(${HERO_BG})`, backgroundSize: "cover", backgroundPosition: "center center" }}
       />
       <div className="absolute inset-0" style={{ background: "linear-gradient(to bottom, rgba(60,45,30,0.2) 0%, rgba(40,28,18,0.42) 100%)" }} />
 
